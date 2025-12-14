@@ -4,5 +4,5 @@
 # Log
 Code will be available soon!
 
-2025/12/14: core code of Panda
-TODO: Dataset, and short description
+- 2025/12/14: core code of Panda
+- TODO: Dataset, and short description
